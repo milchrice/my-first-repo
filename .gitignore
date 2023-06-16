@@ -1,0 +1,15 @@
+# misc files
+.DS_Store
+.env
+*.log
+# リモートに反映されないもの
+.cache/
+
+# common prod directories
+/build
+/dist
+
+# common test directories
+/test
+/testing
+/coverage
